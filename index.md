@@ -4,7 +4,7 @@ title: Илья Пузанков
 ---
 
 
-📧 [rommel.98p@gmail.com](mailto:rommel.98p@gmail.com)&nbsp; | &nbsp; 📱 +7&nbsp;(918)&nbsp;244&#8209;53&#8209;48&nbsp; | &nbsp; 💬 Telegram: [@ilya_puzankov](https://t.me/ilya_puzankov)
+📧 [rommel.98p@gmail.com](mailto:rommel.98p@gmail.com)&nbsp; | &nbsp; 📱 [+7 (918) 244‑53‑48](tel:+79182445348)&nbsp; | &nbsp; 💬 Telegram: [@ilya_puzankov](https://t.me/ilya_puzankov)
 
 ---
 
