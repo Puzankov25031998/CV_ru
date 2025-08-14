@@ -5,7 +5,7 @@ title: Илья Пузанков — CV
 
 # Илья Пузанков
 
-📧 [rommel.98p@gmail.com](rommel.98p@gmail.com)&nbsp; | &nbsp; 📱 +7(918)244-53-48&nbsp; | &nbsp; 💬 Telegram: [@ilya_puzankov](https://t.me/ilya_puzankov)
+📧 [rommel.98p@gmail.com](rommel.98p@gmail.com)&nbsp; | &nbsp; 📱 +7 &nbsp; (918) &nbsp; 244-53-48&nbsp; | &nbsp; 💬 Telegram: [@ilya_puzankov](https://t.me/ilya_puzankov)
 
 ---
 
