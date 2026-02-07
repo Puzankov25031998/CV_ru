@@ -52,16 +52,18 @@ title: Илья Пузанков
 
 ## 🛠 Навыки
 
-**Hard skills**  
-- SQL
-- Python (NumPy, Pandas, Matplotlib, Seaborn)
-- Excel (ВПР, сводные таблицы, формулы)
-- SPSS 
-- Microsoft Office  
-- Miro 
-- R   
+**Hard skills**
 
-**Soft skills**  
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Excel](https://img.shields.io/badge/-Excel-090909?style=for-the-badge&logo=libreofficecalc&logoColor=47C5FB)
+![SPSS](https://img.shields.io/badge/-SPSS-090909?style=for-the-badge&logo=spss&logoColor=47C5FB)
+![Miro](https://img.shields.io/badge/-Miro-090909?style=for-the-badge&logo=miro&logoColor=47C5FB)
+![R](https://img.shields.io/badge/-R-090909?style=for-the-badge&logo=r&logoColor=47C5FB) 
+![Microsoft Office](https://img.shields.io/badge/-Office-090909?style=for-the-badge&logo=libreoffice&logoColor=47C5FB) 
+
+**Soft skills**
+
 - Аналитическое мышление  
 - Менеджерские качества  
 - Критическое мышление  
