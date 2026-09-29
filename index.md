@@ -79,7 +79,7 @@ title: Илья Пузанков
 
 ---
 
-## 📂 Портфолио
+## 📂 Портфолио (пример)
 
 - [Titanic Survival Analysis (SQL + Python)](https://github.com/Puzankov25031998/titanic-survival-analysis)
 
